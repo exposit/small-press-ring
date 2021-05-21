@@ -1,0 +1,13 @@
+{
+    "title": "Small Press Ring",
+    "description": "Are you a small or indie press publishing fiction, non-fiction, or table-top rpg content? Join us like it's 1992!",
+    "image": "logo.jpg",
+    "url": "https://smallpressring.netlify.app",
+    "repo": "https://github.com/exposit/small-press-ring",
+    "admins": [
+        {
+            "name": "Tam H",
+            "url": "https://github.com/exposit"
+        }
+    ]
+}
