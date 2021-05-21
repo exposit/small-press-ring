@@ -5,9 +5,9 @@ title: 'Code of Conduct'
 
 # Code of Conduct
 
-To qualify to join this ring, you need to have a site featuring table-top rpg content that includes random tables, in either analog or digital form. This is <em>incredibly</em> loose; I don't care if the random tables are infrequent, from your tables phase in 2009, or inside a pwyw book on itch.io.
+To qualify to join this ring, you need to have a page showcasing your small rpg press, whether that's focused on table-top role-playing games or rpg-adjacent fiction. This is <em>incredibly</em> loose; one pwyw product or a clear intent to publish one qualifies you! 
 
-You also need to include the "next" and "previous" buttons provided on the main page, at the bare minimum, on your site (ie, keep it a ring!). Styling, attribution, and associated text and images are entirely up to you. Please place the linking code in a visible, easy to find spot (for example, mine's next to my blog's search widget).
+You also need to include the "next" and "previous" buttons provided on the main page, at the bare minimum, on your press page. Ie, keep it a ring! Styling, attribution, and associated text and images are entirely up to you. Please place the linking code in a visible, easy to find spot (for example, mine's next to my blog's search widget).
 
 # Rules:
 
