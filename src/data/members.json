@@ -3,5 +3,18 @@
         "title": "Hedonic Ink",
         "url": "https://www.hedonic.ink",
         "feed": "https://www.hedonic.ink/feed.xml"
+    },
+    {
+        "title": "Dead Tree Press",
+        "url": "https://www.deadtreepress.store/"
+    },
+    {
+        "title": "Graycastle Press",
+        "url": "https://www.graycastlepress.com/"
+    },
+    {
+        "title": "Kick the Sink",
+        "url": "https://ktsink.blogspot.com/",
+        "feed": "https://ktsink.blogspot.com/feeds/posts/default"
     }
 ]
